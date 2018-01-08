@@ -1,0 +1,25 @@
+
+.fondo {
+  height: 100vh;
+  background-image: url(../assets/images/dawn.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.img{
+  width: 100%;
+}
+
+.kitten{
+  width: 80%;
+  height: 35vh;   
+  background-image: url(../assets/images/kitten-large.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+  position: absolute;
+  bottom: 5%;
+  right: 30%;
+}
