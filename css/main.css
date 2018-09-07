@@ -95,7 +95,7 @@
 
 @media screen and (max-width: 1000px) {
   .back{
-    background-image: url('../assets/images/dawn.png');
+    background-image: url('../assets/images/night.jpg');
     background-repeat: no-repeat;
   background-size: cover;
   }
