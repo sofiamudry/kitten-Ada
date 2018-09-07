@@ -97,6 +97,7 @@
   .back{
     background-image: url('../assets/images/dawn.png');
     background-repeat: no-repeat;
+  background-size: cover;
   }
   .gato{
     background-image: url('../assets/images/kitten-small.png')
