@@ -96,9 +96,10 @@
 @media screen and (max-width: 1000px) {
   .back{
     background-image: url('../assets/images/dawn.png');
+    background-repeat: no repeat;
   }
   .gato{
-    background-image: url('../assets/images/kitten-medium.png')
+    background-image: url('../assets/images/kitten-small.png')
   }
 }
 
@@ -107,6 +108,6 @@
     background-image: url('../assets/images/night.jpg')
   }
   .gato{
-    background-image: url('../assets/images/kitten-small.png')
+    background-image: url('../assets/images/kitten-medium.png')
   }
 }
