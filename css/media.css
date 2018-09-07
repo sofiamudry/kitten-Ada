@@ -43,7 +43,7 @@
   }
 } */
 
-
+/* 
 @media screen and (max-width: 900px){
   .fondo{
     background-image: url("../assets/images/sunny-day.jpg");
@@ -75,7 +75,7 @@
     content: url("../assets/images/kitten-medium.png");
     margin-bottom: 40%;
       /* margin-top: 20%; */
-    margin-left: 10%;
+    /* margin-left: 10%;
     width:400px;
   }
-}
+} */ 
